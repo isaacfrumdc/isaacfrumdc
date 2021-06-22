@@ -1,6 +1,10 @@
-### Hi there 👋
+## Hi there, I'm Isaac 👋
+### I'm a CS and Econ student at Johns Hopkins 🐦
+- I enjoy working on finding creative solutions to social justice and civic issues 💡
+- I have experience working with: Python, Java, C++, MySQL, JavaScript, and CSS 💻
+- Reach me on [Linkedin](https://www.linkedin.com/in/isaac-frumkin-57b04817b/) 👔
 
-<!--
+<!-- 
 **isaacfrumdc/isaacfrumdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
