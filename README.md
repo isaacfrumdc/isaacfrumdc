@@ -1,5 +1,5 @@
 ## Hi there, I'm Isaac 👋
-### I'm a CS and Econ student at Johns Hopkins 🐦
+### I'm studing CS and Econ @ Johns Hopkins 🐦
 - I enjoy working on finding creative solutions to social justice and civic issues 💡
 - I have experience working with: Python, Java, C++, MySQL, JavaScript, and CSS 💻
 - Reach me on [Linkedin](https://www.linkedin.com/in/isaac-frumkin-57b04817b/) 👔
